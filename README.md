@@ -21,22 +21,22 @@ const samarth = {
 };
 ```
 
-## 🎯 Current Projects
+🎯 Current Projects
 <div align="center">
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="/api/placeholder/100/100" width="100px;" alt="Medelen"/><br />
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="100px;" alt="Medelen"/><br />
       <b>Medelen</b><br />
       Healthcare Innovation
     </td>
     <td align="center" width="33%">
-      <img src="/api/placeholder/100/100" width="100px;" alt="Policy Ledger"/><br />
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="100px;" alt="Policy Ledger"/><br />
       <b>The Policy Ledger</b><br />
       Policy Platform
     </td>
     <td align="center" width="33%">
-      <img src="/api/placeholder/100/100" width="100px;" alt="SBFBLA"/><br />
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="100px;" alt="SBFBLA"/><br />
       <b>SBFBLA</b><br />
       Leadership Organization
     </td>
