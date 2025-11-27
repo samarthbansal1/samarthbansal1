@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-medelen.org-blue)](https://medelen.org)
 [![Policy Ledger](https://img.shields.io/badge/Project-The%20Policy%20Ledger-green)](https://thepolicyledger.org)
-[![FBLA](https://img.shields.io/badge/Organization-SBFBLA-orange)](https://sbfbla.org)
+[![FBLA](https://img.shields.io/badge/Organization-SBHOSA-red)](https://sbhosa.org)
 
 </div>
 
@@ -14,7 +14,7 @@ I'm a developer and organization leader based in New Jersey, passionate about cr
 ### 🔭 Current Projects
 - **Medelen**: Leading healthcare innovation initiatives
 - **The Policy Ledger**: Bridging technology and policy
-- **SBFBLA**: Fostering business leadership and technological excellence
+- **SBHOSA**: Fostering healthcare leadership and excellence
 
 ### 🌟 What I Do
 - Build scalable solutions for real-world problems
